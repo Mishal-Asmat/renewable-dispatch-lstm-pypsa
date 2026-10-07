@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Forecast-Driven Energy Dispatch Optimisation: LSTM Renewable Forecasting and PyPSA Carbon-Tax Scenarios"
+type: software
+authors:
+  - family-names: "Asmat"
+    given-names: "Mishal"
+repository-code: "https://github.com/Mishal-Asmat/renewable-dispatch-lstm-pypsa"
+license: MIT
+date-released: "2026-10-04"
+keywords:
+  - renewable energy
+  - LSTM
+  - PyPSA
+  - carbon tax
+  - energy system modelling
+  - forecasting

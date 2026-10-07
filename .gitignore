@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Raw OPSD download (large, re-downloadable: see data/README.md)
+data/time_series_60min_singleindex.csv
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
